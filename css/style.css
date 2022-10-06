@@ -1,0 +1,33 @@
+a {
+    	padding: 5px 10px;
+      background: #9c3;
+      -webkit-transition: background 0.3s ease; 
+      -moz-transition: background 0.3s ease; 
+      -o-transition: background 0.3s ease; 
+      transition: background 0.3s ease;
+}
+
+/*
+a.foo1 {
+      -webkit-transition-timing-function: ease;
+}
+a.foo2 {
+      -webkit-transition-timing-function: linear;
+}
+a.foo3 {
+      -webkit-transition-timing-function: ease-in;
+}
+a.foo4 {
+      -webkit-transition-timing-function: ease-out;
+}
+a.foo5 {
+      -webkit-transition-timing-function: ease-in-out;
+}
+a.foo6 {
+      -webkit-transition-timing-function: cubic-bezier;
+}
+*/
+
+a:hover {
+      background: #690;
+}
